@@ -4,6 +4,11 @@ body{
 }
 .top-banner{
     background-image: url("images/header-bg.png");
+    overflow:hidden;
+    background-size: cover;
+    background-position: bottom right;
+    height: 800px;
+    }
 }
 h1{
     font-size: 50px;
