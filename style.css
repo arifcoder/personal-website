@@ -2,50 +2,73 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
-.top-banner{
+.first-section-backgroung {
     background-image: url("images/header-bg.png");
     overflow:hidden;
     background-size: cover;
     background-position: bottom right;
     height: 800px;
-    }
 }
+.pink{
+    color: #EC4C7A;
+}
+
 h1{
     font-size: 50px;
 }
+
 h2{
     font-size: 40px;
+    font-weight: bolder;
 }
-p{
-    color: dimgray;
-    padding-bottom: 25px;
-}
-.half-width{
+
+.first-section-half-left{
     width: 40%;
     float: left;
     padding-left: 2%;
     margin-top: 150px;
     margin-left: 225px;
 }
-.pink-highlight{
-    color: #EC4C7A;
-    font-weight: bolder;
+
+.link-button{
+    background-color: #EC4C7A;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
 }
-.half-width2{
+
+.first-section-half-right-banner{
     height: 100px;
     width: 100px;
     float: left;
     margin-right: 50px;
 }
-.link-button{
-    background: #EC4C7A;
-    color: white;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-}
-.half-width2 img{
-    margin-top: 100px;
+.first-section-half-right-banner img{
+    margin-top: 80px;
     width: 550%;
-    
 }
+
+.bio-section-backgroung {
+    background-image: url("images/biography-bg.png");
+    overflow:hidden;
+    background-size: cover;
+    background-position: bottom right;
+    height: 800px;
+}
+
+.bio-section-half-left-banner img {
+    margin-top: 80px;
+    width: 500px;
+    height: 600px;
+    margin-left: 250px;
+}
+
+.bio-section-half-right {
+    width: 650px;
+    margin-top: 100px;
+    height: 200px;
+    float: right;
+    margin-right: 100px
+}
+
