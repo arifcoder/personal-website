@@ -64,11 +64,14 @@ h2{
     margin-left: 250px;
 }
 
+.bio-section-half-left-banner{
+    width: 40%;
+}
+
 .bio-section-half-right {
-    width: 650px;
-    margin-top: 100px;
-    height: 200px;
+    width: 500px;
+    height: 20px;
     float: right;
-    margin-right: 100px
+    margin-right: 250px;
 }
 
