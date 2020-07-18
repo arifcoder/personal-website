@@ -66,6 +66,7 @@ h2{
 
 .bio-section-half-left-banner{
     width: 40%;
+    float: left;
 }
 
 .bio-section-half-right {
@@ -73,5 +74,70 @@ h2{
     height: 20px;
     float: right;
     margin-right: 250px;
+    margin-top: 190px;
 }
 
+.work-background{
+    background-image: url("images/latest-work-bg.png");
+    overflow:hidden;
+    background-size: cover;
+    background-position: bottom right;
+    height: 800px;  
+}
+.work1-banner{
+    width: 30%;
+    float: left;
+}
+.work1-banner img{
+    margin-top: 80px;
+    width: 500px;
+    height: 600px;
+    margin-left: 250px;
+}
+
+.work2-banner{
+    width: 30%;
+    float: middle;
+}
+.work2-banner img{
+    margin-top: 80px;
+    width: 500px;
+    height: 600px;
+    margin-left: 250px;
+}
+
+.work3-banner{
+    width: 30%;
+    float: right;
+}
+.work3-banner img{
+    margin-top: 80px;
+    width: 500px;
+    height: 600px;
+    margin-left: 250px;
+}
+.footer-background{
+    background-image: url("images/footer-bg.png");
+    overflow:hidden;
+    background-size: cover;
+    background-position: bottom right;
+    height: 800px; 
+}
+.testimonial{
+    text-align: center;
+    font-weight: bold;
+}
+.message{
+    background-color: #EC4C7A;
+    color: white;
+    width: 800px;
+    border-radius: 10px;
+    height: 150px;
+    padding-top: 75px;
+}
+.mail{
+    font-size: 36px;
+}
+.footer-style{
+    margin-top: 165px;
+}
