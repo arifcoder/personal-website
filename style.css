@@ -84,37 +84,37 @@ h2{
     background-position: bottom right;
     height: 800px;  
 }
-.work1-banner{
+.work1-banner {
     width: 30%;
     float: left;
 }
-.work1-banner img{
+.work1-banner img {
     margin-top: 80px;
-    width: 500px;
-    height: 600px;
-    margin-left: 250px;
+    width: 400px;
+    height: 350px;
+    margin-left: 150px;
 }
 
-.work2-banner{
-    width: 30%;
-    float: middle;
-}
-.work2-banner img{
-    margin-top: 80px;
-    width: 500px;
-    height: 600px;
-    margin-left: 250px;
-}
-
-.work3-banner{
+.work2-banner {
     width: 30%;
     float: right;
 }
-.work3-banner img{
+.work2-banner img {
     margin-top: 80px;
-    width: 500px;
-    height: 600px;
-    margin-left: 250px;
+    width: 400px;
+    height: 350px;
+    margin-right: 150px;
+    float: right;
+}
+
+.work3-banner {
+    width: 30%;
+    float: right;
+}
+.work3-banner img {
+    margin-top: 80px;
+    width: 350px;
+    height: 350px;
 }
 .footer-background{
     background-image: url("images/footer-bg.png");
